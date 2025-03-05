@@ -574,6 +574,10 @@ footer p {
         text-wrap: pretty;
     }
 
+    /*Header*/
+    .headerLogo {
+        width: 140px;
+    }
 
     /*Index*/
     .indexGradient-span1 {
