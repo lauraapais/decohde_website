@@ -580,6 +580,10 @@ footer p {
     }
 
     /*Index*/
+    .indexGradient-span {
+        bottom: 50px;
+    }
+    
     .indexGradient-span1 {
         grid-column: 6 / span 7;
         width: 100%;
@@ -623,10 +627,6 @@ footer p {
 
     .headerHr {
         grid-column: 1 / span 6;
-    }
-
-    .indexGradient-span {
-        bottom: 50px;
     }
 
     .indexGradient-span {
