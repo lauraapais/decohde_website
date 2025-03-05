@@ -618,8 +618,8 @@ footer p {
 }
 
     .indexGradient-span {
-        font-size: 35px;
-        line-height: 40px;
+        font-size: 32px;
+        line-height: 37px;
         row-gap:0;
         bottom: 50px;
     }
@@ -632,8 +632,8 @@ footer p {
 
     .indexGradient-span2{
         grid-column: 1 / span 6;
-        font-size: 32px;
-        line-height: 37px;
+        font-size: 27px;
+        line-height: 32px;
         width:100%;
     }
 
